@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HorizontalCalendarAndroid</string>
+    <string name="cd_previous">Previous</string>
+    <string name="cd_next">Next</string>
+</resources>
