@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
     private val currentDate = Calendar.getInstance(Locale.ENGLISH)
     private val dates = ArrayList<Date>()
     private lateinit var adapter: CalendarAdapter
-    val calendarList2 = ArrayList<CalendarDateModel>()
+    private val calendarList2 = ArrayList<CalendarDateModel>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
