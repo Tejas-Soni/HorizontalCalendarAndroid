@@ -31,4 +31,4 @@ Maintained by [Tejas Soni](https://www.github.com/Tejas-Soni)
 
 <br><br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Tejas-Soni.Tejas-Soni)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Tejas-Soni.HorizontalCalendarAndroid)
