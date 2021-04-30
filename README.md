@@ -29,6 +29,6 @@ Maintained by [Tejas Soni](https://www.github.com/Tejas-Soni)
     <img align="left" alt="Tejas Soni | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
-<br>
+<br><br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tejas-Soni.Tejas-Soni)
